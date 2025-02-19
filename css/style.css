@@ -1119,7 +1119,7 @@ footer .copyright-text
 }
 @media (max-width: 395px) {
     .header-social{
-        top: 80%;
+        top: 200px;
     }
     
 }
