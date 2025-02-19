@@ -1119,10 +1119,4 @@ footer .copyright-text
         max-width: 100%;
     }
 }
-@media (max-width: 375px) {
-    body{
-    padding: 0;
-    margin: 0;
-    }
     
-}
