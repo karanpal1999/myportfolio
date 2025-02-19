@@ -1006,13 +1006,11 @@ footer .copyright-text
 {
     .header-social
     {
-        left: 10px;
+        left: 20px;
     }
 }
-@media  (max-width:1300px)
-{
-    .header-social
-    {
+@media(max-width:1300px){
+    .header-social{
         display: none;
     }
 }
