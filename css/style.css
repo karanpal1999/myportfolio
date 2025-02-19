@@ -1117,9 +1117,9 @@ footer .copyright-text
         max-width: 100%;
     }
 }
-@media (max-width: 375px) {
+@media (max-width: 395px) {
     .header-social{
-        top: 70%;
+        top: 80%;
     }
     
 }
